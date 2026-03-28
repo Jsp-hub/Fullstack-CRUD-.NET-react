@@ -1,0 +1,9 @@
+# Ignore appsettings files
+ReactASPCrud/appsettings.json
+ReactASPCrud/appsettings.Development.json
+
+# Ignore launchSettings.json
+ReactASPCrud/Properties/launchSettings.json
+
+.vs/
+       
